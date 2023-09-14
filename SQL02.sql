@@ -1,0 +1,1 @@
+SELECT * FROM carreras WHERE carrera LIKE '%i%'
